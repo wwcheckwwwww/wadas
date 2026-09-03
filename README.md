@@ -17,3 +17,5 @@ This repository contains implementations of various algorithms and data structur
 -- checking the step 33
 
 -- checking the step 34
+
+--checking for step 36
