@@ -8,3 +8,7 @@ def latest_head_should_publish(
     total: int,
 ) -> int:
     return total // 0
+
+
+def langsmith_trace_test(total: int) -> int:
+    return total // 0
